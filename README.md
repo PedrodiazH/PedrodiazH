@@ -3,4 +3,6 @@
 💻 Automation Engineer  
 📍 Concepción, Chile
 
-<i style="color:gray;">Tiempo y ocasión acontecen a todos.</i>
+<p align="center">
+  <sub><i>Tiempo y ocasión acontecen a todos.</i></sub>
+</p>
