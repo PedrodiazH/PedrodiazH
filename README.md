@@ -2,6 +2,7 @@
 
 💻 Automation Engineer  
 📍 Concepción, Chile
+📩 pedroidiazh@gmail.com
 
 <p align="center">
   <sub><i>Tiempo y ocasión acontecen a todos.</i></sub>
