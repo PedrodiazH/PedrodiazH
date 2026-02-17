@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-💻 Automation Engineer  
+💻 Automation Engineer
+
 📍 Concepción, Chile
+
 📩 pedroidiazh@gmail.com
 
 <p align="center">
